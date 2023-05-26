@@ -30,8 +30,8 @@ body{
     height: 60px;
     margin: 2em 0;
     font-weight: bold;
-    color: #6091d3;
-    background: #FFF;
+    color: #FFF;
+    background: #6091d3;
     border: solid 3px #6091d3;
     border-radius: 10px;
     box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.3);
@@ -57,8 +57,8 @@ body{
     margin: 2em 0;
     text-align: middle;
     font-weight: bold;
-    color: #00c66a;
-    background: #FFF;
+    color: #FFF;
+    background: #00c66a;
     border: solid 3px #00c66a;
     border-radius: 10px;
     box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.3);
